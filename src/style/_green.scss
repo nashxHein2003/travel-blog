@@ -1,0 +1,20 @@
+.green {
+  width: 100%;
+  margin-top: 100px;
+  background-color: #1d2321;
+
+  .last {
+    width: 100%;
+    background-image: url(./../image/about/about--bg.jpg);
+    background-position: bottom;
+    background-size: cover;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+
+    .wave {
+      position: absolute;
+      top: 0;
+    }
+  }
+}
