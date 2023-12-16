@@ -15,7 +15,7 @@ export default function About () {
           <div className="about--img">
             
             <img src="./../image/about/about--img1.jpg" class="about--img1" />
-            <img src="./../image/about/about--img2.jpg" alt="" class="about--img2" />
+            <img src="./../image/about/about--img2.jpg" class="about--img2" />
           </div>
         </div>
         
