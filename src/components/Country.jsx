@@ -1,7 +1,13 @@
-import React from 'react';
-import './../style/_country.scss';
+import React from "react";
+import "./../style/_country.scss";
+import spain from "./../image/country_img/spain.jpg";
+import australia from "./../image/country_img/australia.jpg";
+import thailand from "./../image/country_img/thailand.jpg";
+import newzealand from "./../image/country_img/newzealand.jpg";
+import france from "./../image/country_img/france.jpg";
+import canada from "./../image/country_img/canada.jpg";
 
-export default function Country () {
+export default function Country() {
   return (
     <>
       <section className="section_country">
@@ -9,32 +15,32 @@ export default function Country () {
         <div className="country--wrapper">
           <button>
             <h1>spain</h1>
-            <img src="./../image/country_img/spain.jpg" />
+            <img src={spain} alt="Spain" />
           </button>
 
           <button className="tall">
             <h1>australia</h1>
-            <img src="./../image/country_img/australia.jpg" />
+            <img src={australia} alt="Australia" />
           </button>
 
           <button className="tall">
             <h1>thailand</h1>
-            <img src="./../image/country_img/thailand.jpg" />
+            <img src={thailand} alt="Thailand" />
           </button>
 
           <button>
             <h1>newzealand</h1>
-            <img src="./../image/country_img/newzealand.jpg" />
+            <img src={newzealand} alt="New Zealand" />
           </button>
 
           <button>
             <h1>france</h1>
-            <img src="./../image/country_img/france.jpg" />
+            <img src={france} alt="France" />
           </button>
-          
+
           <button>
             <h1>canada</h1>
-            <img src="./../image/country_img/canada.jpg" />
+            <img src={canada} alt="Canada" />
           </button>
         </div>
       </section>
