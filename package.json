@@ -1,5 +1,5 @@
 {
-  "homepage": "https://nashxHein2003.git.io/travel-blog",
+  "homepage": "https://nashxHein2003.github.io/travel-blog",
   "name": "my-travel-blog",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.2.0"
   }
 }
