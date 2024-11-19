@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/travel-blog/static/css/main.fec50856.css",
+    "main.js": "/travel-blog/static/js/main.e4cc2790.js",
+    "static/media/Artena--Italy.jpg": "/travel-blog/static/media/Artena--Italy.c34a8896e77ef0c894f0.jpg",
+    "static/media/about--img1.jpg": "/travel-blog/static/media/about--img1.c34a8896e77ef0c894f0.jpg",
+    "static/media/thailand.jpg": "/travel-blog/static/media/thailand.4fb83ce9ca4cfc3edca2.jpg",
+    "static/media/about--bg.jpg": "/travel-blog/static/media/about--bg.b0a05a93242830dcb75c.jpg",
+    "static/media/burlada--spain.jpg": "/travel-blog/static/media/burlada--spain.ed1dfd532de84d155785.jpg",
+    "static/media/sedona--US.jpg": "/travel-blog/static/media/sedona--US.5f96565e7e973ff807aa.jpg",
+    "static/media/newzealand.jpg": "/travel-blog/static/media/newzealand.27f79353fc05614fa59a.jpg",
+    "static/media/france.jpg": "/travel-blog/static/media/france.79479133f94fc170108d.jpg",
+    "static/media/niagara--canada.jpg": "/travel-blog/static/media/niagara--canada.a8125e825c3cdba2fabe.jpg",
+    "static/media/spain.jpg": "/travel-blog/static/media/spain.47ad315298fdde7e977d.jpg",
+    "static/media/canada.jpg": "/travel-blog/static/media/canada.812254e42d8dd0f32e7d.jpg",
+    "static/media/about--img2.jpg": "/travel-blog/static/media/about--img2.1ea95b309d3153576bed.jpg",
+    "static/media/australia.jpg": "/travel-blog/static/media/australia.8b2257d72e4ec3b81412.jpg",
+    "static/media/iceland.jpg": "/travel-blog/static/media/iceland.085e7f013d43f5e30702.jpg",
+    "static/media/instagram--icon.png": "/travel-blog/static/media/instagram--icon.66c61d4b9b008fe52718.png",
+    "static/media/location-icon.png": "/travel-blog/static/media/location-icon.da6ee2b5ee315059e410.png",
+    "index.html": "/travel-blog/index.html",
+    "main.fec50856.css.map": "/travel-blog/static/css/main.fec50856.css.map",
+    "main.e4cc2790.js.map": "/travel-blog/static/js/main.e4cc2790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec50856.css",
+    "static/js/main.e4cc2790.js"
+  ]
+}
